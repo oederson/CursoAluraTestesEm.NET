@@ -1,0 +1,15 @@
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/bin/Debug/net7.0/Estacionamento
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/bin/Debug/net7.0/Estacionamento.deps.json
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/bin/Debug/net7.0/Estacionamento.runtimeconfig.json
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/bin/Debug/net7.0/Estacionamento.dll
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/bin/Debug/net7.0/Estacionamento.pdb
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.csproj.AssemblyReference.cache
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.AssemblyInfoInputs.cache
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.AssemblyInfo.cs
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.csproj.CoreCompileInputs.cache
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.dll
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/refint/Estacionamento.dll
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.pdb
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/Estacionamento.genruntimeconfig.cache
+/home/eder/CursoAluraTestesEm.NET/Estacionamento/obj/Debug/net7.0/ref/Estacionamento.dll
