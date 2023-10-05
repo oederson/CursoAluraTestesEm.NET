@@ -14,17 +14,17 @@ namespace Estacionamento.Tests;
             estacionamento.OperadorPatio = operador;
 
             var veiculo = new Veiculo();
-            veiculo.Proprietario = "André Silva";
+            veiculo.Proprietario = "Eu";
             veiculo.Tipo = TipoVeiculo.Automovel;
             veiculo.Placa = "ABC-0101";
             veiculo.Modelo = "Fusca";    
             veiculo.Acelerar(10);
             veiculo.Frear(5);
-            estacionamento.RegistrarEntradaVeiculo(veiculo);
-            estacionamento.RegistrarSaidaVeiculo(veiculo.Placa);
+            estacionamento.RegistrarEntradaVeiculo(veiculo); //Passando o obj como parametro
+            estacionamento.RegistrarSaidaVeiculo(veiculo.Placa); 
 
             //Act
-            double faturamento = estacionamento.TotalFaturado();
+            double faturamento = estacionamento.TotalFaturado();//faturamento recebe o valor do método que retorna o faturamento.
 
             //Assert
             Assert.Equal(2, faturamento);
